@@ -132,7 +132,7 @@ We will try to run these pre-competitions frequently, at least once a day once e
 
 ## 4. Marking criteria
 
-The overall project marks (worth 50% total of the course) are as follows:
+The overall project marks (worth 50% total of the course) are as follows
 
 | Component | Course Weight |
 | ----------| --------------|
